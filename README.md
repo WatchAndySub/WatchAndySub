@@ -1,9 +1,15 @@
-This account is for backing up my projects and auto compilation of some data repositories, contact my main @WatchAndyTW.
+This account is for my school projects and auto compilation of some data repositories, contact my main @WatchAndyTW.
 
-A teenage developer from Taiwan, 17 years old currently.
+A 18 years old developer from Taiwan who is currently studying in Information Management (First Year), Fu-Jen Catholic University.
+Dedicated in Reverse Engineering, Private Server Developing, Memory Hooking and a lot more coding related stuff.
 
 Here are my works / projects:
-- Founder | Empressival
-- Translator | Project Amber
-- 管理員 | Discord分享區
-- 機器龍保母 | Yeecord
+- Collaborator | [LunarCore](https://github.com/Melledy/LunarCore)
+- Collaborator | [DanhengServer](https://github.com/EggLinks/DanhengServer-Public)
+- Collaborator | [UnknownAnimeGamePS](https://github.com/XeonSucksLAB/UnknownAnimeGamePS) ([Grasscutter](https://github.com/Grasscutters/Grasscutter) fork)
+- Collaborator | [LunaGC-5.0.0](https://github.com/Kei-Luna/LunaGC_5.0.0)
+- Founder | [Flying Flame](https://t.me/FireflyLeaks)
+- Founder | GuraLeak (Discontinued)
+- Founder | Empressival (Discontinued)
+- Developer | VALKI
+- Developer | VALLIANTY (Discontinued)
